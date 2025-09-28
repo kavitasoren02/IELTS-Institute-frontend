@@ -2,7 +2,7 @@ import axios from "axios";
 import type React from "react";
 
 import { useState } from "react";
-import { ENROLLMENTS_URL, TESTIMONIALS_URL } from "../lib/api";
+import { ENROLLMENTS_URL } from "../lib/api";
 
 export default function EnrollForm() {
   const [name, setName] = useState("");
