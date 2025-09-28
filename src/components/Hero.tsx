@@ -50,7 +50,7 @@ export default function Hero() {
         </div>
         <div className="relative">
           <img
-            src="https://images.unsplash.com/photo-1584697964403-55b1b2c3b4ea?q=80&w=1400&auto=format&fit=crop"
+            src="https://images.unsplash.com/photo-1537202108838-e7072bad1927?q=80&w=746&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="IELTS Study"
             className="w-full rounded-xl shadow-lg object-cover"
           />
